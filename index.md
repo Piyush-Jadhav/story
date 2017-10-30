@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Piyush-Jadhav/story/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Piyush-Jadhav/story/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A shot in a spark
+    Hey guys, I am willing talk with you about the problems faced by the students and also by the youngsters in this century. The real one which might change your life forever. It was like I want to just confess that I have done these mistakes in my life . love , a feeling which fucks up our mind , mess up our mind and totally distract us from all that things which was on the priorities our life.
+	Here I am going To explain it to you that what this kind of feeling messed up with me , its my true story may you will like or dislike butb one thing for sure that it will show the way to all that kind of the people which thinks like “my life is a waste and she fucked up with me only”
+	                                                    My mom
+I was born in Maharashtra , a state of such a peace and a famous for all the times . the history of the Maharashtra is well known for every person of india . am lucky that I was born in such a pure state . I opened my sight at the town khamgaon , near to my native place in the middle-class family of hindu family. My da passed away when I was just of 5 months . my mom a self-respective well educated semi graduated school teacher at government school named to be zilha parishad school , nimgaon.
+	                 Brief history of my life
+As anyone born in middle-class family he\she must have go through big struggles and efforts for surviving but luckily I had the best mom in the world she had the tremendous struggle for me and my elder brother . she fought with the world with herself to teach me and my brother. She struggled a lot for the educations on me an my elder brother, she made the things easier to us. Luckily my elder brother is so talented,he is just extra-ordinary…..always first in class ,ranker in compitative exams, excellent in studies, he did many achievements in his high-school career. And here me was average student who having no ambition, no aim that time. But one thing was the best in me is I have perseverance. Everyone was thinking as was an average student so no one was known about my potential .also I was not known about that one. My studies were going on as a normal . a fucking turning point I found in my life was come after my 10th standard	
